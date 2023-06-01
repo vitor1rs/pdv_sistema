@@ -1,24 +1,4 @@
-# README
+# pdv_sistema
+Um sistema PDV para bares e restaurantes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+O sistema PDV (Ponto de Venda) é uma solução desenvolvida para bares e restaurantes que opera em um servidor local. Ele permite realizar vendas, controlar estoque, gerenciar pedidos e pagamentos dentro do estabelecimento. Além disso, o sistema possui integração com um aplicativo web view, possibilitando que os clientes acessem o cardápio, realizem pedidos e efetuem pagamentos diretamente pelo aplicativo. Essa integração traz praticidade e agilidade para o processo de atendimento e facilita a comunicação entre o estabelecimento e seus clientes.
